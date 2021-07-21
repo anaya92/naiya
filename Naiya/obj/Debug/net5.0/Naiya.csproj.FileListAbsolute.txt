@@ -1,0 +1,12 @@
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\bin\Debug\net5.0\Naiya.deps.json
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\bin\Debug\net5.0\Naiya.dll
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\bin\Debug\net5.0\ref\Naiya.dll
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\bin\Debug\net5.0\Naiya.pdb
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\obj\Debug\net5.0\Naiya.csproj.AssemblyReference.cache
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\obj\Debug\net5.0\Naiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\obj\Debug\net5.0\Naiya.AssemblyInfoInputs.cache
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\obj\Debug\net5.0\Naiya.AssemblyInfo.cs
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\obj\Debug\net5.0\Naiya.csproj.CoreCompileInputs.cache
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\obj\Debug\net5.0\Naiya.dll
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\obj\Debug\net5.0\ref\Naiya.dll
+C:\Users\anaya\source\repos\GameEnginePackage\Naiya\obj\Debug\net5.0\Naiya.pdb
